@@ -1,2 +1,4 @@
 # Glasgow-ReproducibiliTea
-Materials for the Glasgow ReproducibiliTea chapter. 
+Materials for the Glasgow ReproducibiliTea chapter.  
+
+![Glasgow Repro](...)
