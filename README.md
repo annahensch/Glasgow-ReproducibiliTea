@@ -1,7 +1,12 @@
 # Glasgow ReproducibiliTea chapter
 This repo collects materials and announcements for the Glasgow [#ReproducibiliTea](https://reproducibilitea.org/) chapter.  
 
-Link to the May paper: https://psyarxiv.com/p6e9c
+Link to the (upcoming) May paper: https://psyarxiv.com/p6e9c
+
+Abstract: When studies with positive results that support the tested hypotheses have a higher probabilityof being published than studies with negative results, the literature will give a distorted view ofthe evidence for scientific claims. Psychological scientists have been concerned about the degreeof distortion in their literature due to publication bias and inflated Type-1 error rates. RegisteredReports were developed with the goal to minimise such biases: In this new publication format,peer review and the decision to publish take place before the study results are known.  Wecompared the results in the full population of published Registered Reports in Psychology(N=71as of November 2018) with a random sample of hypothesis-testing studies from thestandard literature (N=152) by searching 633 journals for the phrase ‘test* the hypothes*’(replicating a method by Fanelli, 2010). Analysing the first hypothesis reported in each paper,we found96%positive results in standard reports, but only44%positive results in RegisteredReports. The dierence remained nearly as large when direct replications were excluded fromthe analysis (96%vs50%positive results). This large gap suggests that psychologists under-report negative results to an extent that threatens cumulative science. Although our study didnot directly test the eectiveness of Registered Reports at reducing bias, these results show thatthe introduction of Registered Reports has led to a much larger proportion of negative resultsappearing in the published literature compared to standard report.
+
+![Glasgow Repro](https://github.com/annahensch/Glasgow-ReproducibiliTea/blob/master/scheel.png)
+
 Link to the April paper: https://psyarxiv.com/rybh9/  
 Link to video recording of the April meeting: https://www.youtube.com/watch?reload=9&v=_WV7EFvFAB8&feature=youtu.be
 
