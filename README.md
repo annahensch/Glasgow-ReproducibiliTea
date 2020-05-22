@@ -5,6 +5,9 @@ Sign up with your email address [to be kept updated and be sent the Zoom link](h
 
 ![Glasgow Repro](https://github.com/annahensch/Glasgow-ReproducibiliTea/blob/master/TEA_poster.png)
 
+Link to the project website: https://niro-sr.netlify.app/
+
+Abstract: Systematic reviews are complicated. Ensuring that they are reproducible and open is even more complex, and it's easy to overlook things or to adopt a workflow which makes reproducibility and transparency difficult to achieve. Whilst there are many (brilliant!) existing guidelines for conducting systematic reviews, many of these focus on a particular type of research centred around interventions. The NIRO Systematic Review checklist aims to provide a comprehensive set of guidelines for non-interventional research to help bring the gold-standard of evidence synthesis to other areas of research.
 
 
 Link to the May paper: https://psyarxiv.com/p6e9c
