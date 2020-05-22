@@ -10,12 +10,13 @@ Link to the project website: https://niro-sr.netlify.app/
 Abstract: Systematic reviews are complicated. Ensuring that they are reproducible and open is even more complex, and it's easy to overlook things or to adopt a workflow which makes reproducibility and transparency difficult to achieve. Whilst there are many (brilliant!) existing guidelines for conducting systematic reviews, many of these focus on a particular type of research centred around interventions. The NIRO Systematic Review checklist aims to provide a comprehensive set of guidelines for non-interventional research to help bring the gold-standard of evidence synthesis to other areas of research.
 
 
+![Glasgow Repro](https://github.com/annahensch/Glasgow-ReproducibiliTea/blob/master/scheel.png)
+
 Link to the May paper: https://psyarxiv.com/p6e9c
 
 
 Abstract: When studies with positive results that support the tested hypotheses have a higher probability of being published than studies with negative results, the literature will give a distorted view of the evidence for scientific claims. Psychological scientists have been concerned about the degree of distortion in their literature due to publication bias and inflated Type-1 error rates. RegisteredReports were developed with the goal to minimise such biases: In this new publication format, peer review and the decision to publish take place before the study results are known.  We compared the results in the full population of published Registered Reports in Psychology(N=71 as of November 2018) with a random sample of hypothesis-testing studies from the standard literature (N=152) by searching 633 journals for the phrase ‘test* the hypotheses*’(replicating a method by Fanelli, 2010). Analysing the first hypothesis reported in each paper, we found 96% positive results in standard reports, but only 44% positive results in RegisteredReports. The difference remained nearly as large when direct replications were excluded from the analysis (96% vs 50% positive results). This large gap suggests that psychologists under-report negative results to an extent that threatens cumulative science. Although our study did not directly test the effectiveness of Registered Reports at reducing bias, these results show that the introduction of Registered Reports has led to a much larger proportion of negative results appearing in the published literature compared to standard report.
 
-![Glasgow Repro](https://github.com/annahensch/Glasgow-ReproducibiliTea/blob/master/scheel.png)
 
 Link to the April paper: https://psyarxiv.com/rybh9/  
 Link to video recording of the April meeting: https://www.youtube.com/watch?reload=9&v=_WV7EFvFAB8&feature=youtu.be
