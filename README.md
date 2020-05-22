@@ -3,6 +3,8 @@ This repo collects materials and announcements for the Glasgow [#ReproducibiliTe
 
 Sign up with your email address [to be kept updated and be sent the Zoom link](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyC_C7bWZ0HxKrMAg9Cgt4G9UMU84VVFCMFdUMkkwT0JQRTU5VDFRTFgwSy4u)
 
+![Glasgow Repro](https://github.com/annahensch/Glasgow-ReproducibiliTea/blob/master/Tea_Poster.png)
+
 
 Link to the May paper: https://psyarxiv.com/p6e9c
 
