@@ -5,6 +5,14 @@ We do meets for ECRs who are interested in reproducible research.
 
 Sign up with your email address [to be kept updated and be sent the Zoom link](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyC_C7bWZ0HxKrMAg9Cgt4G9UMU84VVFCMFdUMkkwT0JQRTU5VDFRTFgwSy4u)
 
+![Glasgow Repro](https://github.com/annahensch/Glasgow-ReproducibiliTea/blob/master/tea_july.jpeg.png)
+
+Link to the July paper: https://tinyurl.com/yaxapfkg
+
+Abstract: This research seeks to understand how survey measurements can represent differences of sex, gender, and sexuality in the UK. It employs a sequential, mixed methods research design featuring three strands. Strand 1 summaries current survey practices by reviewing publicly available information on 22 UK population surveys. Identifying assumptions these surveys make and who they erase. Strand 2 engages with these overlooked groups via focus groups and potentially interviews. It aims to understand the overlooked groups perspectives on how their represented via surveys. Participants will be tasked with creating questions on sex, gender and sexuality that they would be accurately represented by. Strand 3 will test these questions with the broader LGBTI+ population. Featuring an online survey of these communities, recording if/how they respond to the questions constructed by the overlooked groups. It will also test the generalisability of the perspectives and experiences shared by Strand 2's respondents.
+
+
+
 ![Glasgow Repro](https://github.com/annahensch/Glasgow-ReproducibiliTea/blob/master/TEA_poster.png)
 
 Link to the project website: https://niro-sr.netlify.app/
