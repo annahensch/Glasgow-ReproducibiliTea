@@ -3,7 +3,19 @@ This repo collects materials and announcements for the Glasgow [#ReproducibiliTe
 
 We do meets for ECRs who are interested in reproducible research.
 
+
 Sign up with your email address [to be kept updated and be sent the Zoom link](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyC_C7bWZ0HxKrMAg9Cgt4G9UMU84VVFCMFdUMkkwT0JQRTU5VDFRTFgwSy4u)
+
+
+![Glasgow Repro](https://github.com/annahensch/Glasgow-ReproducibiliTea/blob/master/Sam.png)
+
+
+What can senior academics do to support reproducible and open research: an easy, three-step guide
+ 
+Abstract:
+ 
+Policies are being increasingly introduced to reward and recognise open research practices, while their adoption is being facilitated by many self-organising initiatives. However, despite this widespread endorsement and support, open research is yet to be widely adopted, with early career researchers in the psychological sciences being the notable exception. For open research to become the norm, initiatives should engage academics from all career stages, particularly senior academics (namely senior lecturers, readers, professors) given their routine involvement in determining the quality of research. Senior academics, however, face unique social and practical challenges in implementing policy change and supporting initiatives. Given that -- like all researchers -- senior academics are motivated by self-interest, this paper lays out three feasible steps that senior academics can take to improve the quality and productivity of their research that also serve to engender open research. These steps include a) changing hiring criteria, b) moving toward contributorship, and c) funding and publishing in line with open research. The guidance we provide is accompanied with crowd-sourced material for further reading.
+ 
 
 ![Glasgow Repro](https://github.com/annahensch/Glasgow-ReproducibiliTea/blob/master/tea_july.jpeg)
 
